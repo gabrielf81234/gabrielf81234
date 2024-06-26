@@ -1,5 +1,15 @@
-## Hi there 👋
+## Bem vindo ao meu parfil👋
+Meu nome é Gabriel Ferrete
 
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+## Você pode entrar em contato comigo 📫
+alurastartestudante@email.com
+
+@alurastartestudante
+
+![](https://media.tenor.com/iqyhP4D5ygAAAAAi/emoji-smile.gif)
 <!--
 **gabrielf81234/gabrielf81234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
